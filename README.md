@@ -6,3 +6,4 @@ Some changes
 some new changes for git diff chapter
 another changes for branching
 this is bound to cause troubles
+changes for stashing chapter
